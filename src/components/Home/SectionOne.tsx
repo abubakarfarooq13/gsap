@@ -22,7 +22,7 @@ const SectionOne = () => {
       <div className=" flex justify-center container items-center text-center text-white flex-col relative h-[100dvh]">
         <div className=" ">
           {" "}
-          <h1 className="text-2xl hero-title">Welcome to Rohan</h1>
+          <h1 className="text-2xl hero-title">Welcome to Akaltic</h1>
           <h2 className="text-7xl font-bold mt-6 line-one leading-22 ">
             <span className="">We’re here to bring</span>
             <br />

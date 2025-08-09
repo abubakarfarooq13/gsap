@@ -29,7 +29,7 @@ const SectionTwo = () => {
             <div className="ml-10 mt-10">
               <span>We’re glad you’re here.</span>
               <p className="mt-10">
-                Rohan is a product design studio dedicated to crafting
+                Akaltic is a product design studio dedicated to crafting
                 meaningful
                 <br />
                 digital experiences. From UX research and design to frontend

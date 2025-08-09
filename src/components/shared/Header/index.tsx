@@ -34,7 +34,7 @@ const Header: React.FC = () => {
           aria-label="Primary"
         >
           <a href="#" className="text-lg font-semibold tracking-tight">
-            Rohan
+            Akaltic
           </a>
 
           <div className="">
