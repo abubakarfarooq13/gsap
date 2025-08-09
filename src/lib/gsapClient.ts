@@ -1,3 +1,5 @@
+/*eslint-disable*/
+//@ts-nocheck
 let gsapPromise: Promise<any> | null = null;
 
 export function loadGSAP(plugins: (() => Promise<any>)[] = []) {

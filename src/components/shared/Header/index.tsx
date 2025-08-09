@@ -1,7 +1,6 @@
 "use client";
 import { Button } from "@/components/ui/button";
-import { getContrastColor } from "@/lib/utils";
-import React, { useEffect, useRef, useState } from "react";
+import React, { useEffect, useState } from "react";
 
 const NAV_ITEMS = [
   { label: "Home", href: "#" },
